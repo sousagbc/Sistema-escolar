@@ -24,7 +24,7 @@ export default function Login() {
       justifyContent: "center",
       alignItems: "center",
       height: "100vh",           // centraliza verticalmente
-      background: "gray",     // opcional
+      background: "white",     // opcional
     },
 
 
