@@ -13,7 +13,7 @@ export default function Login() {
       navigate("/home");
       return;
     }
-    setError("Usuário ou senha incorretos.");
+    setError("Usuário ou senha incorretis.");
   };
 
   // ---- ESTILOS TIPADOS ----
@@ -24,7 +24,7 @@ export default function Login() {
       justifyContent: "center",
       alignItems: "center",
       height: "100vh",           // centraliza verticalmente
-      background: "#f0f2f5",     // opcional
+      background: "white",     // opcional
     },
 
 
